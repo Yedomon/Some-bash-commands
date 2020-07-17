@@ -1,3 +1,4 @@
+
 ##Codes are from [Taj Azarian Gist Page](https://gist.githubusercontent.com/EpiDemos82/ad030f26f1df2d5e1a7c799f0987ca02/) 
 
 ##GENERAL TEXT OR FILE MANIPULATION
@@ -130,7 +131,7 @@
 `iqtree -s SNPs.fasta -m MFP+ASC -nt AUTO`
 
 
-
+a usefull linkt https://datacarpentry.org/wrangling-genomics/05-automation/index.html
 
 `#Example pipeline
  #!/bin/bash
